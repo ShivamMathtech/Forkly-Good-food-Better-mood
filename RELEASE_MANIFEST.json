@@ -1,0 +1,353 @@
+{
+  "project": "Forkly Food Delivery",
+  "version": "1.0.0",
+  "default_mode": "demo",
+  "tests_passed": 15,
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 614,
+      "sha256": "83b9411bedfd938d9af34eee2154436af53f4afab31e2d397243eaa305661b34"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 87,
+      "sha256": "80ee9a535a860cd284676410ee31726b96400c945edfba2b26a334602379d3e4"
+    },
+    {
+      "path": ".nvmrc",
+      "bytes": 3,
+      "sha256": "68ca3fba3b7e864770cb61aeb306d4bd4354b68ab4dd38450860c5d823e42a53"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1230,
+      "sha256": "f6a54ab797c39ac3c71c101680b2c77c32829b8a3fdef8f2d319eb6cae6a076d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10076,
+      "sha256": "8d7e02ce4111eab58447cb56e2dfb51f0180722b730989cf5f26acd094cf98ff"
+    },
+    {
+      "path": "START_HERE.txt",
+      "bytes": 690,
+      "sha256": "97e00d5be51f5d47c017742ad5520b6f439a2de12ce12a35ea2a58da8711426f"
+    },
+    {
+      "path": "VERCEL_DEPLOYMENT.md",
+      "bytes": 5865,
+      "sha256": "cfc09f17ba5d3e5dafd8ebc38286eada2e698fb61931892154c55c61f7f0c8de"
+    },
+    {
+      "path": "dist/assets/index-BQcyWd9Q.css",
+      "bytes": 58657,
+      "sha256": "3227bcb6e02b6a6f6269540fad19ffab516247359c5004b720c0b6d8182bb196"
+    },
+    {
+      "path": "dist/assets/index-Do01bx-9.js",
+      "bytes": 360464,
+      "sha256": "4d5a074d4829c51c543536f850f61a7b19c1ebd8fcc8aa743323f9e21dbaeb57"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 299,
+      "sha256": "c1539ec6868f06e68bba9fe3b5095dc081370a336e18f131e503ecd5458d022e"
+    },
+    {
+      "path": "dist/images/bowl.jpg",
+      "bytes": 203940,
+      "sha256": "4780c4ad3dd0955cf1a147c28de4339bdab0a7708ddc159a8a956626a05b678a"
+    },
+    {
+      "path": "dist/images/burger.jpg",
+      "bytes": 117722,
+      "sha256": "05f5b398485fb72b43badf9fe45a1845d9d71bd567b792086a786ca4f6bec97d"
+    },
+    {
+      "path": "dist/images/coffee.jpg",
+      "bytes": 271226,
+      "sha256": "82aab59c720c9549ec7f5974e2f8db9f08ea3401b026bbd9c08a2ce1c6633c5c"
+    },
+    {
+      "path": "dist/images/dessert.jpg",
+      "bytes": 156039,
+      "sha256": "6947b28458ddb4ba3882f44c14aacbb87908ff55a64cae0f71463794ece7aa75"
+    },
+    {
+      "path": "dist/images/fries.jpg",
+      "bytes": 199714,
+      "sha256": "54e2d4db5d3d9c6c2e183f11af162225ef4f55c605645105d593e3861aa4a60e"
+    },
+    {
+      "path": "dist/images/noodles.jpg",
+      "bytes": 279324,
+      "sha256": "49197069ff41bbb4c4b1338122fa75a44bb21105a96dd07f8dd116660f0c8bad"
+    },
+    {
+      "path": "dist/images/pasta.jpg",
+      "bytes": 158790,
+      "sha256": "db30eb986d360621164f08d3462d304170e6fc17bcffcbd980a6effa8060ae9d"
+    },
+    {
+      "path": "dist/images/pizza.jpg",
+      "bytes": 207235,
+      "sha256": "648c1aa64c9cddade024154c591eb25ecca4f4413170772b2dacdcf4e19f514b"
+    },
+    {
+      "path": "dist/images/restaurant.jpg",
+      "bytes": 216932,
+      "sha256": "246a2d2999632250e092287ebb1ba901322f0dcedd6180fe4d948e93fe33a282"
+    },
+    {
+      "path": "dist/images/salad.jpg",
+      "bytes": 183375,
+      "sha256": "5119279b73f8c94491bc3db97e912c6f022783236789922214a5b4ec4e5de3b2"
+    },
+    {
+      "path": "dist/images/sandwich.jpg",
+      "bytes": 176126,
+      "sha256": "c55b58fd95d4686a6ec51f61b3d33622e8ae5ad20f6a180fd9a58d0154519eb5"
+    },
+    {
+      "path": "dist/images/sushi.jpg",
+      "bytes": 175729,
+      "sha256": "46b4af8564f3c4e29c52196aff30037885463ca2bcf13ec40a291c8e3ed45281"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 738,
+      "sha256": "d6deda4191818e356e358265ca8907174a6760b94636e8c5a5b697dac8b5aa16"
+    },
+    {
+      "path": "docs/BACKEND.md",
+      "bytes": 6711,
+      "sha256": "d300ba72dc9e6b99b663e92fa9f553683c388c735767925925b655f0c415337e"
+    },
+    {
+      "path": "docs/TESTING.md",
+      "bytes": 4362,
+      "sha256": "53f41613376417b8d5bf3ed0fd786663d6a360641a4358b1128f5b1f999556a7"
+    },
+    {
+      "path": "docs/image-sources.json",
+      "bytes": 1941,
+      "sha256": "9bf7db36d1adb6e18c34e0c6f59d67bb714f4ea0b73339ea3bd737d82721f65b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 640,
+      "sha256": "54b763f246edd02d3df59cd004331d15c34ac6bf949f4f8ab9211de0dd930e24"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 29678,
+      "sha256": "366b4c68670786a4987eb47e1e82f3bb731a5466ea01ee385f322ce45583445f"
+    },
+    {
+      "path": "package.json",
+      "bytes": 754,
+      "sha256": "ff8da137d4ce4f81c9adb8e4101f81cc7b722e496d5a599ce206f515b14df35a"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 299,
+      "sha256": "c1539ec6868f06e68bba9fe3b5095dc081370a336e18f131e503ecd5458d022e"
+    },
+    {
+      "path": "public/images/bowl.jpg",
+      "bytes": 203940,
+      "sha256": "4780c4ad3dd0955cf1a147c28de4339bdab0a7708ddc159a8a956626a05b678a"
+    },
+    {
+      "path": "public/images/burger.jpg",
+      "bytes": 117722,
+      "sha256": "05f5b398485fb72b43badf9fe45a1845d9d71bd567b792086a786ca4f6bec97d"
+    },
+    {
+      "path": "public/images/coffee.jpg",
+      "bytes": 271226,
+      "sha256": "82aab59c720c9549ec7f5974e2f8db9f08ea3401b026bbd9c08a2ce1c6633c5c"
+    },
+    {
+      "path": "public/images/dessert.jpg",
+      "bytes": 156039,
+      "sha256": "6947b28458ddb4ba3882f44c14aacbb87908ff55a64cae0f71463794ece7aa75"
+    },
+    {
+      "path": "public/images/fries.jpg",
+      "bytes": 199714,
+      "sha256": "54e2d4db5d3d9c6c2e183f11af162225ef4f55c605645105d593e3861aa4a60e"
+    },
+    {
+      "path": "public/images/noodles.jpg",
+      "bytes": 279324,
+      "sha256": "49197069ff41bbb4c4b1338122fa75a44bb21105a96dd07f8dd116660f0c8bad"
+    },
+    {
+      "path": "public/images/pasta.jpg",
+      "bytes": 158790,
+      "sha256": "db30eb986d360621164f08d3462d304170e6fc17bcffcbd980a6effa8060ae9d"
+    },
+    {
+      "path": "public/images/pizza.jpg",
+      "bytes": 207235,
+      "sha256": "648c1aa64c9cddade024154c591eb25ecca4f4413170772b2dacdcf4e19f514b"
+    },
+    {
+      "path": "public/images/restaurant.jpg",
+      "bytes": 216932,
+      "sha256": "246a2d2999632250e092287ebb1ba901322f0dcedd6180fe4d948e93fe33a282"
+    },
+    {
+      "path": "public/images/salad.jpg",
+      "bytes": 183375,
+      "sha256": "5119279b73f8c94491bc3db97e912c6f022783236789922214a5b4ec4e5de3b2"
+    },
+    {
+      "path": "public/images/sandwich.jpg",
+      "bytes": 176126,
+      "sha256": "c55b58fd95d4686a6ec51f61b3d33622e8ae5ad20f6a180fd9a58d0154519eb5"
+    },
+    {
+      "path": "public/images/sushi.jpg",
+      "bytes": 175729,
+      "sha256": "46b4af8564f3c4e29c52196aff30037885463ca2bcf13ec40a291c8e3ed45281"
+    },
+    {
+      "path": "qa/responsive.html",
+      "bytes": 769,
+      "sha256": "bf4721c242493baa6e2570330937ff4e4d750aea58d7fc1c97d79e8bbeb80ac4"
+    },
+    {
+      "path": "scripts/dev-full.mjs",
+      "bytes": 941,
+      "sha256": "cffa4cefcb2711016d73adcf787c571cb0580e98f9f243ea893d6ea1ec1094f1"
+    },
+    {
+      "path": "server/app.mjs",
+      "bytes": 18543,
+      "sha256": "498a0341f33fd571c99f1a810f6144db1c680757d55289fd15af09f450cc6eb7"
+    },
+    {
+      "path": "server/auth.mjs",
+      "bytes": 1496,
+      "sha256": "4e1f8f3f03922722a118c8a5524a4bd89824e139f457a310203a970e9c746c71"
+    },
+    {
+      "path": "server/database.mjs",
+      "bytes": 1831,
+      "sha256": "e866f3be7c720315e198825dd8afdd1e522e8762742b527b310f719747e0af29"
+    },
+    {
+      "path": "server/index.mjs",
+      "bytes": 570,
+      "sha256": "448a0881548e01075615d7b0510e9e82427d111e0bf85b038a2fb989e407557d"
+    },
+    {
+      "path": "server/manage.mjs",
+      "bytes": 3582,
+      "sha256": "c65401a9af6104b7c32e992fac3d26282e33bad89c2bb4414fa6c20b84bbe517"
+    },
+    {
+      "path": "shared/catalog.mjs",
+      "bytes": 10494,
+      "sha256": "f76a65b8405eb1c4b1b1357f2c2322e3a4415ee3d63b0b1e165ebd67b5f730fe"
+    },
+    {
+      "path": "shared/id.mjs",
+      "bytes": 494,
+      "sha256": "c2f2eda9f2eb60913434ed3ce58f0df05329e8e8e58e3b38f88bbbff8772ad41"
+    },
+    {
+      "path": "shared/order.mjs",
+      "bytes": 5414,
+      "sha256": "f846bc60f11b2db140bcfaa1016213925b97958f5004f85d79c0a8e046afd940"
+    },
+    {
+      "path": "src/App.jsx",
+      "bytes": 3607,
+      "sha256": "31c5d2cc80037a4dddd00da8ca9409a7e0ca1d4f8d6810e4ed818a42f7d4fb90"
+    },
+    {
+      "path": "src/components/ui.jsx",
+      "bytes": 19174,
+      "sha256": "e5153a7024889982b89aca8e58741fa8083affd9fa30015e45a5080b5aa13335"
+    },
+    {
+      "path": "src/lib/repository.js",
+      "bytes": 4722,
+      "sha256": "64e410b02b85d9228cc56e6e58cd764d465d638e0f459c787b299e08a540ef67"
+    },
+    {
+      "path": "src/lib/store.jsx",
+      "bytes": 6486,
+      "sha256": "b8280b88eae76a960ba2c5d5c5c6bf6a94149cf3ff6dd3543487295866a182a7"
+    },
+    {
+      "path": "src/main.jsx",
+      "bytes": 237,
+      "sha256": "5efce433b9c29f906dd7f4450371c51b516d9855f3caa6068b4b408cd6eca593"
+    },
+    {
+      "path": "src/pages/Account.jsx",
+      "bytes": 30310,
+      "sha256": "73e7cd42806405781e628c6501270451b6c0cc5a959bc41a192907a7f4e02dfd"
+    },
+    {
+      "path": "src/pages/Browse.jsx",
+      "bytes": 18115,
+      "sha256": "d7c7d69f225b5b24fa2170aa06adf7bb57dce20726df8db94a1491eeb9552a75"
+    },
+    {
+      "path": "src/pages/Checkout.jsx",
+      "bytes": 13987,
+      "sha256": "b9bd006762397355dcc58f8d9d371e76014c670ff2b70be21a1938e11a3f47a6"
+    },
+    {
+      "path": "src/pages/Orders.jsx",
+      "bytes": 21177,
+      "sha256": "df31ec62f9573cd40056bd0f9db4b2cc8ab496365a0f3ceb54abaedfd90db19b"
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 76650,
+      "sha256": "161f03b6e85f1beeb6dc723c03c65d61f455efa4be2dc69c86d839fb5fafb735"
+    },
+    {
+      "path": "start-demo.bat",
+      "bytes": 617,
+      "sha256": "4c3036594d53497c2e8dbcba2800f5f1985a9c8c5c21deaa7b397da885b8e4cb"
+    },
+    {
+      "path": "start-demo.sh",
+      "bytes": 245,
+      "sha256": "d21e40d74dbceaa0a999bcdc28180fba5199f57cb8be5648ef16489c222f3d89"
+    },
+    {
+      "path": "start-fullstack.bat",
+      "bytes": 651,
+      "sha256": "6e874b542dfced1408835c98ba1759b01f5073501f72e03f71ff349565156306"
+    },
+    {
+      "path": "tests/api.test.mjs",
+      "bytes": 7425,
+      "sha256": "9c53cfcb21ecfa2242fc117bb5564065d2c61c1d329a6f1d203e780583cd8fa0"
+    },
+    {
+      "path": "tests/order.test.mjs",
+      "bytes": 3436,
+      "sha256": "b404a0be3e602751a107d50dca41fe336aac7d8db680afe13ef39ffe19e5d4ce"
+    },
+    {
+      "path": "vercel.json",
+      "bytes": 556,
+      "sha256": "ca9b61c854fbd440e6c3382a733d24162dd6c20ab12df10dfc7ade6e3d5c78ec"
+    },
+    {
+      "path": "vite.config.js",
+      "bytes": 364,
+      "sha256": "cb88984b7545786b8f448104c7e0b623c9f03499ba5821411a1788c8b04801ae"
+    }
+  ]
+}

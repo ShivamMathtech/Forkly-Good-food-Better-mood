@@ -1,0 +1,24 @@
+FORKLY FOOD DELIVERY — START HERE
+
+1. Extract this ZIP first.
+2. Install Node.js 24 LTS from https://nodejs.org/.
+3. Windows demo: double-click start-demo.bat.
+   Windows full stack: double-click start-fullstack.bat.
+
+TERMINAL
+  npm ci
+  npm run dev
+
+VERCEL DEMO (NO BACKEND NEEDED)
+  Root Directory: folder containing package.json and vercel.json
+  Framework: Vite
+  Node version: 24.x
+  Install: npm ci
+  Build: npm run build
+  Output: dist
+  Environment variables: none required
+
+Demo mode is the default. Data stays in the current browser.
+No real payment, delivery, or message to a real rider is made in demo mode.
+
+Read README.md and VERCEL_DEPLOYMENT.md for complete instructions.
